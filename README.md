@@ -1,0 +1,2 @@
+# my_solution_for_hackerrank_min_max_algo
+demo
